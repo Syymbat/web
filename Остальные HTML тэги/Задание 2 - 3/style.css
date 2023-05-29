@@ -1,0 +1,24 @@
+.header{
+    background-color: #0B0B3B;
+    color: white;
+}
+.container{
+    width: 100%;
+    display: flex;
+}
+.Logo{
+    width: 75%;
+    padding-left: 20px;
+}
+
+.button {
+    display: flex;
+    width: 25%;
+    padding: 10px;
+    
+}
+.button{
+    background-color: #0B0B3B;
+    color: white;
+    border: none;
+}
